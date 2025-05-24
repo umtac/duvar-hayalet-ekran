@@ -31,6 +31,8 @@ Yapıştırdıktan sonra:
 ---
 
 ## ✅ ADIM 4: README’yi GitHub’a yükle
+npm install
+npx expo start
 
 Şimdi bu yeni dosyayı commit'leyip push edeceğiz:
 
