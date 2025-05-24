@@ -1,0 +1,7 @@
+DUVAR & HAYALET EKRAN - GÜVENLİK DÖKÜMANI
+
+1. Tüm görüşmeler uçtan uca AES-256 ile şifrelenir.
+2. Şifreler hiçbir zaman sunucuda saklanmaz.
+3. "sis" komutu ya da kullanıcı ayrılması görüşmeyi veritabanından tamamen siler.
+4. Firestore kuralları: Her kullanıcı yalnızca kendi verilerine erişebilir.
+5. Görüşmeler RAM'de tutulur, cihaz hafızasında kalmaz.

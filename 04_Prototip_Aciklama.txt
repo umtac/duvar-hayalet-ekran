@@ -1,0 +1,14 @@
+PROTOTİP TANIMI:
+
+1. DUVAR AKIŞI
+   - Paylaşımlar: Şifreli / herkese açık / özel
+   - Her paylaşım için görünürlük simgeleri
+
+2. HAYALET EKRAN
+   - Sohbet başlat butonu
+   - Mesaj giriş alanı + şifre alanı
+   - "Şifrele" / "Çöz" butonları
+   - "sis" yazıldığında her şey silinir
+
+3. EKRAN GÖRSELLERİ (Figma veya tasarım aracı ile yapılacak)
+   - Bu mockuplar istek halinde hazırlanabilir.
